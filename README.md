@@ -23,8 +23,9 @@
 - 檢查指定資料夾內所有的 ZIP 檔案。
 - 解壓縮每個 ZIP 檔案到指定的目標資料夾內。
 
-### 授權
+#### 授權
 本專案採用 [MIT 授權條款](./LICENSE) 授權。您可以自由修改和分發程式碼。
+
 ---
 
 ## 简体中文说明
@@ -44,8 +45,9 @@
 - 检查指定文件夹内所有的 ZIP 文件。
 - 解压每个 ZIP 文件到指定的目标文件夹内。
 
-### 许可证
+#### 许可证
 本项目采用 [MIT 许可证](./LICENSE) 许可。您可以自由修改和分发代码。
+
 ---
 
 ## English Description
@@ -65,5 +67,5 @@ This script is used for extracting all ZIP files in a specified directory. Each 
 - Scans the specified directory for ZIP files.
 - Extracts each ZIP file into a target directory.
 
-### License
+#### License
 This project is licensed under the [MIT License](./LICENSE). You are free to modify and distribute the code.
